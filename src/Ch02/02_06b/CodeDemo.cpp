@@ -3,6 +3,9 @@
 // Preprocessor directives, by Eduardo Corpeño 
 
 #include <iostream>
+#include <string>
+#include <cstdint>
+
 
 int main(){
     
